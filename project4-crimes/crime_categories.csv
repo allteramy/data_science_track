@@ -1,0 +1,105 @@
+﻿Crime,Crime Category
+ARSON,Arson
+ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER,Assault Offenses
+"ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT",Assault Offenses
+ATTEMPTED ROBBERY,Robbery
+BATTERY - SIMPLE ASSAULT,Assault Offenses
+BATTERY ON A FIREFIGHTER,Assault Offenses
+BATTERY POLICE (SIMPLE),Assault Offenses
+BIGAMY,Fraud Offenses
+BIKE - STOLEN,Larceny/Theft Offenses
+BLOCKING DOOR INDUCTION CENTER,Miscellaneous
+BOMB SCARE,Crimes Against Society - General
+BRANDISH WEAPON,Weapon Law Violations
+BRIBERY,Bribery
+"BUNCO, ATTEMPT",Larceny/Theft Offenses
+"BUNCO, GRAND THEFT",Larceny/Theft Offenses
+"BUNCO, PETTY THEFT",Larceny/Theft Offenses
+BURGLARY,Burglary/Breaking & Entering
+BURGLARY FROM VEHICLE,Burglary/Breaking & Entering
+"BURGLARY FROM VEHICLE, ATTEMPTED",Burglary/Breaking & Entering
+"BURGLARY, ATTEMPTED",Burglary/Breaking & Entering
+CONSPIRACY,Inchoate Offenses
+CONTEMPT OF COURT,Misdemeanor Offense
+CONTRIBUTING,Miscellaneous
+COUNTERFEIT,Counterfeiting/Forgery
+"CREDIT CARDS, FRAUD USE ($950 & UNDER",Fraud Offenses
+"CREDIT CARDS, FRAUD USE ($950.01 & OVER)",Fraud Offenses
+CRIMINAL HOMICIDE,Homicide Offenses
+CRIMINAL THREATS - NO WEAPON DISPLAYED,Criminal Threat
+CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER),Crimes Against Persons - General
+CRUELTY TO ANIMALS,Animal Cruelty
+"DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER",Larceny/Theft Offenses
+"DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01",Larceny/Theft Offenses
+DISCHARGE FIREARMS/SHOTS FIRED,Weapon Law Violations
+DISHONEST EMPLOYEE - GRAND THEFT,Larceny/Theft Offenses
+DISHONEST EMPLOYEE - PETTY THEFT,Larceny/Theft Offenses
+DISHONEST EMPLOYEE ATTEMPTED THEFT,Larceny/Theft Offenses
+DISRUPT SCHOOL,Crimes Against Society - General
+DISTURBING THE PEACE,Crimes Against Society - General
+DOCUMENT FORGERY / STOLEN FELONY,Counterfeiting/Forgery
+DOCUMENT WORTHLESS ($200 & UNDER),Counterfeiting/Forgery
+DOCUMENT WORTHLESS ($200.01 & OVER),Counterfeiting/Forgery
+DRIVING WITHOUT OWNER CONSENT (DWOC),Stolen Property Offenses
+DRUNK ROLL,Drug/Narcotic Offenses
+"EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)",Embezzlement
+"EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)",Embezzlement
+EXTORTION,Extortion/Blackmail
+FAILURE TO YIELD,Traffic Violations
+FALSE IMPRISONMENT,Fraud Offenses
+FALSE POLICE REPORT,Fraud Offenses
+FIREARMS EMERGENCY PROTECTIVE ORDER (FIREARMS EPO),Miscellaneous
+GRAND THEFT / INSURANCE FRAUD,Fraud Offenses
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,Human Trafficking Offenses
+ILLEGAL DUMPING,Misdemeanor Offense
+INDECENT EXPOSURE,Misdemeanor Offense
+INTIMATE PARTNER - AGGRAVATED ASSAULT,Sex Offenses
+INTIMATE PARTNER - SIMPLE ASSAULT,Sex Offenses
+KIDNAPPING,Kidnapping/Abduction
+KIDNAPPING - GRAND ATTEMPT,Kidnapping/Abduction
+LYNCHING,Homicide Offenses
+ORAL COPULATION,Sex Offenses
+OTHER ASSAULT,Crimes Against Persons - General
+OTHER MISCELLANEOUS CRIME,Miscellaneous
+PANDERING,Miscellaneous
+PICKPOCKET,Misdemeanor Offense
+PIMPING,Prostitution Offenses
+PROWLER,Sex Offenses
+PURSE SNATCHING,Burglary/Breaking & Entering
+PURSE SNATCHING - ATTEMPT,Burglary/Breaking & Entering
+RECKLESS DRIVING,Traffic Violations
+"REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)",Weapon Law Violations
+RESISTING ARREST,Miscellaneous
+ROBBERY,Robbery
+SHOPLIFTING - ATTEMPT,Stolen Property Offenses
+SHOPLIFTING - PETTY THEFT ($950 & UNDER),Stolen Property Offenses
+SHOPLIFTING-GRAND THEFT ($950.01 & OVER),Stolen Property Offenses
+SHOTS FIRED AT INHABITED DWELLING,Assault Offenses
+"SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT",Assault Offenses
+STALKING,Sex Offenses
+TELEPHONE PROPERTY - DAMAGE,Destruction/Damage/Vandalism
+THEFT FROM MOTOR VEHICLE - ATTEMPT,Larceny/Theft Offenses
+THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER),Larceny/Theft Offenses
+THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER),Larceny/Theft Offenses
+THEFT FROM PERSON - ATTEMPT,Larceny/Theft Offenses
+THEFT OF IDENTITY,Identity Theft
+THEFT PLAIN - ATTEMPT,Larceny/Theft Offenses
+THEFT PLAIN - PETTY ($950 & UNDER),Larceny/Theft Offenses
+"THEFT, COIN MACHINE - PETTY ($950 & UNDER)",Larceny/Theft Offenses
+"THEFT, PERSON",Larceny/Theft Offenses
+"THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD",Larceny/Theft Offenses
+THREATENING PHONE CALLS/LETTERS,Criminal Threat
+THROWING OBJECT AT MOVING VEHICLE,Assault Offenses
+TILL TAP - GRAND THEFT ($950.01 & OVER),Larceny/Theft Offenses
+TILL TAP - PETTY ($950 & UNDER),Larceny/Theft Offenses
+TRESPASSING,Burglary/Breaking & Entering
+UNAUTHORIZED COMPUTER ACCESS,Cybercrime
+"VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)",Destruction/Damage/Vandalism
+VANDALISM - MISDEAMEANOR ($399 OR UNDER),Destruction/Damage/Vandalism
+VEHICLE - ATTEMPT STOLEN,Motor Vehicle Theft
+VEHICLE - STOLEN,Motor Vehicle Theft
+"VEHICLE, STOLEN - OTHER (MOTORIZED SCOOTERS, BIKES, ETC)",Motor Vehicle Theft
+VIOLATION OF COURT ORDER,Misdemeanor Offense
+VIOLATION OF RESTRAINING ORDER,Misdemeanor Offense
+VIOLATION OF TEMPORARY RESTRAINING ORDER,Misdemeanor Offense
+WEAPONS POSSESSION/BOMBING,Weapon Law Violations
